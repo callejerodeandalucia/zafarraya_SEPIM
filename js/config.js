@@ -1,7 +1,7 @@
 //******** configuración **********************//
 url = "http://www.callejerodeandalucia.es/sepim/api";
 urlGB = ""; //JGL - vacío si no tiene GB
-idAplicacion = 148; //id de la aplicación
+idAplicacion = 134; //id de la aplicación
 //*********************************************//
 aplicacion = null;
 pilaCategorias = [];
